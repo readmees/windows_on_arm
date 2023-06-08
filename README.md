@@ -18,5 +18,5 @@ If you get stuck at internet connection and there is no 'I don't have internet'
 
 11. Reboot VM
 12. Wait for Language screen to load
-13. Press [Shift + F10 to open CMD and type OOBE\BYPASSNRO](https://docs.getutm.app/guides/windows/)
+13. Press [Shift + F10 to open CMD and type OOBE\BYPASSNRO](https://docs.getutm.app/guides/windows/), you might have to check 'Use F1, F2, etc. keys as standard function keys' in System Preferences first of MacOS
 14. Wait for VM to reboot and simply follow the steps
