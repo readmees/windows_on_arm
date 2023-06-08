@@ -14,9 +14,14 @@ Tested on M1 Air Macbook June 2022
 9. Wait quite long till creation of VM is finished
 10. Open VM & follow the steps
 
-If you get stuck at internet connection and there is no 'I don't have internet'
+If you get stuck at internet connection and there is no 'I don't have internet':
 
 11. Reboot VM
 12. Wait for Language screen to load
 13. Press [Shift + F10 to open CMD and type OOBE\BYPASSNRO](https://docs.getutm.app/guides/windows/), you might have to check 'Use F1, F2, etc. keys as standard function keys' in System Preferences first of MacOS
 14. Wait for VM to reboot and simply follow the steps
+
+If internet doesn't work after install:
+
+15. Run Spice tools within Windows it's a drive and reboot
+16. Set network to 'Emulated VLAN' with 'virtio-net-pci' Emulated network card
