@@ -15,6 +15,7 @@ Tested on M1 Air Macbook June 2022
 10. Open VM & follow the steps
 
 If you get stuck at internet connection and there is no 'I don't have internet'
+
 11. Reboot VM
 12. Wait for Language screen to load
 13. Press [Shift + F10 to open CMD and type OOBE\BYPASSNRO](https://docs.getutm.app/guides/windows/)
